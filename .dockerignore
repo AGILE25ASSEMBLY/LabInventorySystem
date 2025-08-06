@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.venv/
+*.egg-info/
+
+# IDE / Editor specific
+.idea/
+.vscode/
