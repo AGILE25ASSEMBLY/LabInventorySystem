@@ -1,0 +1,6 @@
+Flask
+gunicorn
+pyzbar
+opencv-python
+pandas
+XlsxWriter

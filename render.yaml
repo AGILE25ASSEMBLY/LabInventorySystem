@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: lab-inventory-system
+    env: docker
+    plan: free
